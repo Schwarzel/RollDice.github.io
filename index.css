@@ -24,3 +24,7 @@ button {
     padding: 20px;
     margin-top: 20px;
 }
+#image img {
+    width: 250px;
+    margin: 20px;
+}
