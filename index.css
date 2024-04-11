@@ -1,0 +1,26 @@
+@font-face {
+    font-family: kode;
+    src: url(../Paras/fonts/KodeMono-VariableFont_wght.ttf);
+}
+.container {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+}
+
+input {
+    text-align: center;
+    font-size: 1.5rem;
+    outline: none;
+}
+
+button {
+    background: #589de4;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+    font-size: 2rem;
+    padding: 20px;
+    margin-top: 20px;
+}
